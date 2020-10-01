@@ -1,4 +1,4 @@
-name: ExternalAdapter 
+name: alphavantage_internalip_adaptersvm_clnode 
 description: An example adapter that does something.
 node_identifier: example
 platforms:
